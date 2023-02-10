@@ -1,0 +1,34 @@
+name: Mend
+categories:
+  - linter
+tags:
+  - c
+  - c++
+  - ci
+  - go
+  - html
+  - java
+  - javascript
+  - kotlin
+  - node
+  - php
+  - python
+  - python
+  - ruby
+  - scala
+  - typescript
+license: proprietary
+types:
+  - service
+  - ide-plugin
+homepage: "https://www.mend.io"
+description: >-
+  Mend (formerly known as WhiteSource) is a SaaS solution that helps developers
+  find and fix security vulnerabilities and license compliance issues in open
+  source components.
+pricing: https://www.mend.io/pricing/
+resources:
+  - title: Mend Explainer
+    url: https://www.youtube.com/watch?v=fIoxKmyj1wM
+  - title: Secure your application development with AWS and Mend
+    url: https://www.youtube.com/watch?v=H4HK76kRru4
